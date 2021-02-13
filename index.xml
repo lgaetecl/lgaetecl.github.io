@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luis Gaete</title>
+    <link>localhost/</link>
+    <description>Recent content on Luis Gaete</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Feb 2021 23:06:37 -0300</lastBuildDate><atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>localhost/about/</link>
+      <pubDate>Fri, 12 Feb 2021 23:09:50 -0300</pubDate>
+      
+      <guid>localhost/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>localhost/posts/hello/</link>
+      <pubDate>Fri, 12 Feb 2021 23:06:37 -0300</pubDate>
+      
+      <guid>localhost/posts/hello/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
