@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost/about/</loc>
+    <loc>https://luisgaete.dev/about/</loc>
     <lastmod>2021-02-12T23:09:50-03:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/posts/hello/</loc>
+    <loc>https://luisgaete.dev/posts/hello/</loc>
     <lastmod>2021-02-12T23:06:37-03:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/</loc>
+    <loc>https://luisgaete.dev/</loc>
     <lastmod>2021-02-12T23:06:37-03:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/posts/</loc>
+    <loc>https://luisgaete.dev/posts/</loc>
     <lastmod>2021-02-12T23:06:37-03:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/blog/</loc>
+    <loc>https://luisgaete.dev/blog/</loc>
   </url>
   
   <url>
-    <loc>localhost/series/</loc>
+    <loc>https://luisgaete.dev/series/</loc>
   </url>
   
   <url>
-    <loc>localhost/tags/</loc>
+    <loc>https://luisgaete.dev/tags/</loc>
   </url>
   
 </urlset>

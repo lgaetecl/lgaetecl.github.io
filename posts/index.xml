@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Luis Gaete</title>
-        <link>localhost/posts/</link>
+        <link>https://luisgaete.dev/posts/</link>
         <description>Recent content in Posts on Luis Gaete</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Fri, 12 Feb 2021 23:06:37 -0300</lastBuildDate>
-        <atom:link href="localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://luisgaete.dev/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Hello</title>
-            <link>localhost/posts/hello/</link>
+            <link>https://luisgaete.dev/posts/hello/</link>
             <pubDate>Fri, 12 Feb 2021 23:06:37 -0300</pubDate>
             
-            <guid>localhost/posts/hello/</guid>
+            <guid>https://luisgaete.dev/posts/hello/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>
